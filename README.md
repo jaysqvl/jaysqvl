@@ -9,7 +9,7 @@ Currently exploring the depths of mobile and web development but love coding sof
 My most comfortable languages are Java and Python but I love broadening my knowledge. Always willing to learn a new language.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsqvl&hide=contribs,issues&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&custom_title="Jay's Github Stats"&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsqvl&hide=contribs,issues&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&custom_title=Jays Github Stats&theme=dracula"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsqvl&langs_count=5&layout=compact&theme=dracula" />
