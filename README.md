@@ -10,4 +10,4 @@ My most comfortable languages are Java and Python but I love broadening the brea
 
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsqvl&hide=contribs,issues&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsqvl&layout=compact&theme=dracula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsqvl&langs_count=5&layout=compact&theme=dracula)]
