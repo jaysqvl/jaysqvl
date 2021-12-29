@@ -8,4 +8,6 @@ Currently exploring the depths of mobile and web development but love coding sof
 
 My most comfortable languages are Java and Python but I love broadening the breadth of what I know.
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsqvl&show_icons=true&theme=dracula)
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsqvl&hide=contribs,issues,prs&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsqvl&layout=compact&theme=dracula)]
