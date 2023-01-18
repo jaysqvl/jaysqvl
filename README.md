@@ -12,5 +12,4 @@ My most comfortable languages are Java and Python but I love broadening my knowl
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsqvl&hide=contribs,issues&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&custom_title=Jay's Github Stats&theme=dracula" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsqvl&exclude_repo=CS213,CS221&theme=dracula)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsqvl&exclude_repo=CS213,CS221&theme=dracula&langs_count=10)]
