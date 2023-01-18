@@ -13,3 +13,4 @@ My most comfortable languages are Java and Python but I love broadening my knowl
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsqvl&exclude_repo=CS213,CS221&theme=dracula)]
+(https://github.com/anuraghazra/github-readme-stats)
