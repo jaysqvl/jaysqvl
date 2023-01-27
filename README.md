@@ -2,7 +2,7 @@
 
 Hello!
 
-I'm Jay Esquivel, a third year undergraduate currently studying at Simon Fraser University in Burnaby, British Columbia.
+I'm Jay, a third year undergraduate currently studying at Simon Fraser University in Burnaby, British Columbia (Previous: University of British Columbia).
 
 Currently exploring the depths of mobile and web development but love coding software that improves the lives of many!
 
