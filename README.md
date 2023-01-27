@@ -7,6 +7,9 @@ I'm Jay, a third year undergraduate currently studying at Simon Fraser Universit
 Currently exploring the depths of mobile and web development but love coding software that improves the lives of many!
 
 My most comfortable languages are Java and Python but I love broadening my knowledge. Always willing to learn new skills!
+
+---
+
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
