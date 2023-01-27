@@ -21,6 +21,6 @@ My most comfortable languages are Java and Python but I love broadening my knowl
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
 <div style="display: flex; flex-direction: row;" align="center">
- <img class="img" src="https://github-readme-stats-liard-sigma.vercel.app/api?username=jsqvl&hide=issues&show_icons=true&count_private=true&theme=dark&include_all_commits=true" width="450" height="200"/>
+ <img class="img" src="https://github-readme-stats-liard-sigma.vercel.app/api?username=jsqvl&hide=contribs,issues&show_icons=true&count_private=true&theme=dark&include_all_commits=true" width="450" height="200"/>
  <img class="img" src="https://github-readme-stats-liard-sigma.vercel.app/api/top-langs/?username=jsqvl&theme=dark&langs_count=10&layout=compact&exclude_repo=CS221,CS213" />
 </div>
