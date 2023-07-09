@@ -4,7 +4,7 @@ Hello!
 
 I'm Jay, a third year undergraduate currently studying at Simon Fraser University in Burnaby, British Columbia (Previous: University of British Columbia).
 
-Currently exploring the depths of mobile and web development but love coding software that improves the lives of many!
+Currently exploring the depths of AI/ML alongside Web Development!
 
 My most comfortable languages are Java and Python but I love broadening my knowledge. Always willing to learn new skills!
 
