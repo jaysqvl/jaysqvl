@@ -6,6 +6,8 @@ I'm Jay, a third year undergraduate currently studying at Simon Fraser Universit
 
 Currently exploring the depths of AI/ML alongside Web Development!
 
+Sometimes building in private but can't wait to show it off!
+
 My most comfortable languages are Python, Java, and C++/C but I love broadening my knowledge. Always willing to learn new skills!
 
 ---
