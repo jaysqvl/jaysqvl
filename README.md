@@ -4,7 +4,7 @@ Hello!
 
 I'm Jay, a third year undergraduate currently studying at Simon Fraser University in Burnaby, British Columbia (Previous: University of British Columbia).
 
-Currently exploring the depths of Full-Stack Development!
+Currently Full-Stack Developing!
 
 Sometimes building in private but can't wait to show it off!
 
