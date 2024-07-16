@@ -1,24 +1,24 @@
-# Jaysqvl
+# Jaysqvl ⚡
 
 Hi, I'm Jay, a 4th year undergraduate currently studying at Simon Fraser University in Burnaby, British Columbia (Previous: University of British Columbia).
 
 Mostly building in private but can't wait to show it off!
 
-## What I'm working on
+## What I'm working on 👷
 
 - Working as a Software Engineering at OffroadExpert building their website and company tools
 
-## What I've done
+## What I've done 🐣
 
 - Helped build multiple online AI courses
 - Tutored students at various U.S./Canadian Universities in Calculus, Data Science, Statistics, Introduction to Functional Programming, and Introduction to Programming for non-majors
 - Built my own home-lab/private cloud solution for companies I work with, home automation, entertainment services, etc
 
-## What I'm Interested In
+## What I'm Interested In 🏢
 
 - Cloud, Computer Networking, Parallel Computing, Computer Systems, Applied ML and LLMs
 
-## Contact me
+## Contact me 📠
 
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/jaysqvl/) or via e-mail (jay_esquivel@sfu.ca). Always looking to make new friends, collaborate, or simply discuss new ideas!
 
