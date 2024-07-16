@@ -1,14 +1,26 @@
 # Jaysqvl
 
-Hello!
+Hi, I'm Jay, a 4th year undergraduate currently studying at Simon Fraser University in Burnaby, British Columbia (Previous: University of British Columbia).
 
-I'm Jay, a third year undergraduate currently studying at Simon Fraser University in Burnaby, British Columbia (Previous: University of British Columbia).
+Mostly building in private but can't wait to show it off!
 
-Currently Full-Stack Developing!
+## What I'm working on
 
-Sometimes building in private but can't wait to show it off!
+- Working as a Software Engineering at OffroadExpert building their website and company tools
 
-I have a strong background in OOP development and my most comfortable languages are Python, Java, and C++/C. Building to learn and learning to build always!
+## What I've done
+
+- Helped build multiple online AI courses
+- Tutored students at various U.S./Canadian Universities in Calculus, Data Science, Statistics, Introduction to Functional Programming, and Introduction to Programming for non-majors
+- Built my own home-lab/private cloud solution for companies I work with, home automation, entertainment services, etc
+
+## What I'm Interested In
+
+- Cloud, Computer Networking, Parallel Computing, Computer Systems, Applied ML and LLMs
+
+## Contact me
+
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/jaysqvl/) or via e-mail (jay_esquivel@sfu.ca). Always looking to make new friends, collaborate, or simply discuss new ideas!
 
 ---
 
