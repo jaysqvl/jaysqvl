@@ -4,9 +4,10 @@ Hi, I'm Jay, a 4th year undergraduate currently studying at Simon Fraser Univers
 
 Mostly building in private repos but can't wait to show it off (if they let me lol)!
 
-## What I'm working on 👷
+## What I'm Up To 👷
 
 - Working as a Software Engineer at OffroadExpert building their website and company tools
+- Privately Tutoring CS Courses
 
 ## What I've done 🐣
 
