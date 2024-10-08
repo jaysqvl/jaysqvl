@@ -13,7 +13,8 @@ Mostly building in private repos but can't wait to show it off (if they let me l
 
 - Helped build multiple online AI courses featured on Coursera, Udemy, and Thinkific
 - Tutored students at various U.S./Canadian Universities in Computer Science, Calculus, Data Science, and Statistics!
-- Built my own home-lab/private cloud solution for companies I work with, home automation, entertainment services, etc
+- Built, operate, and maintain a home-lab for my own personal home automation, scripts, VMs, network, and entertainment services, etc
+- Built, operate, maintain, and deploy the private cloud/server(s) of companies that I work with as well as migrate their core services to it
 
 ## What I'm Interested In 🏢
 
