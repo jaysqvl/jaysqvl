@@ -2,21 +2,21 @@
 
 Hi, I'm Jay, a 4th year undergraduate currently studying at Simon Fraser University in Burnaby, British Columbia (Previous: University of British Columbia).
 
-Mostly building in private but can't wait to show it off!
+Mostly building in private repos but can't wait to show it off (if they let me lol)!
 
 ## What I'm working on 👷
 
-- Working as a Software Engineering at OffroadExpert building their website and company tools
+- Working as a Software Engineer at OffroadExpert building their website and company tools
 
 ## What I've done 🐣
 
-- Helped build multiple online AI courses
-- Tutored students at various U.S./Canadian Universities in Calculus, Data Science, Statistics, Introduction to Functional Programming, and Introduction to Programming for non-majors
+- Helped build multiple online AI courses featured on Coursera, Udemy, and Thinkific
+- Tutored students at various U.S./Canadian Universities in Computer Science, Calculus, Data Science, and Statistics!
 - Built my own home-lab/private cloud solution for companies I work with, home automation, entertainment services, etc
 
 ## What I'm Interested In 🏢
 
-- Cloud, Computer Networking, Parallel Computing, Computer Systems, Applied ML and LLMs
+- Cloud, Computer Networking, Distributed Systems, Computer Systems, Applied ML and LLMs
 
 ## Contact me 📠
 
