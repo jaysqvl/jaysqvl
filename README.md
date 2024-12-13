@@ -1,24 +1,26 @@
 # Jaysqvl ⚡
 
-Hi, I'm Jay, a 4th year undergraduate currently studying at Simon Fraser University in Burnaby, British Columbia (Previous: University of British Columbia).
+Hi, I'm Jay, a near completion undergraduate currently studying at Simon Fraser University in Burnaby, British Columbia (Previous: University of British Columbia).
 
 Mostly building in private repos but can't wait to show it off (if they let me lol)!
 
-## What I'm Up To 👷
+## What I'm Currently Up To 👷
 
 - Working as a Software Engineer at OffroadExpert building their website and company tools
+- Learning about neural nets and modern computer architecture—superscalar, branch-pred, caching, and multithreading
 - Privately Tutoring CS Courses
 
 ## What I've done 🐣
 
+- Built full-stack web and mobile apps 
 - Helped build multiple online AI courses featured on Coursera, Udemy, and Thinkific
 - Tutored students at various U.S./Canadian Universities in Computer Science, Calculus, Data Science, and Statistics!
-- Built, operate, and maintain a home-lab for my own personal home automation, scripts, VMs, network, and entertainment services, etc
+- Built, operate, and maintain a home-lab for my own personal home automation, scripts, VMs, network, and services, etc
 - Built, operate, maintain, and deploy the private cloud/server(s) of companies that I work with as well as migrate their core services to it
 
 ## What I'm Interested In 🏢
 
-- Cloud, Computer Networking, Distributed Systems, Computer Systems, Applied ML and LLMs
+- Cloud, Computer Networking, Distributed Systems, Computer Systems, ML and LLMs
 
 ## Contact me 📠
 
