@@ -23,7 +23,7 @@ Mostly building in private repos but can't wait to show it off (if they let me l
 
 ## What I'm Interested In 🏢
 
-- So much! but more specifically, Cloud, Computer Networking, Distributed Systems, Computer Systems, ML and LLMs
+- So much! but more specifically, Cloud, Networking, Distributed Systems, Computer Systems, ML and LLMs
 
 ## Contact me 📠
 
