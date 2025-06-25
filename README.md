@@ -43,5 +43,5 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/jaysqvl/) or via e-mai
 
 <div style="display: flex; flex-direction: row;" align="center">
  <img class="img" src="https://github-readme-stats-liard-sigma.vercel.app/api?username=jaysqvl&custom_title=Jays&nbsp;Activity&show_icons=true&count_private=true&theme=dark" width="450" height="200"/>
- <img class="img" src="https://github-readme-stats-liard-sigma.vercel.app/api/top-langs/?username=jaysqvl&hide_title=true&theme=dark&langs_count=10&layout=compact&exclude_repo=cs221,cs213" />
+ <img class="img" src="https://github-readme-stats-liard-sigma.vercel.app/api/top-langs/?username=jaysqvl&hide=html&hide_title=true&theme=dark&langs_count=10&layout=compact&exclude_repo=cs221,cs213" />
 </div>
